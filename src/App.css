@@ -12,19 +12,17 @@ h1 {
   margin: 0 auto;
 }
 .player-one {
-  margin: 0 auto;
-  width: 100%;
-  height: 100%;
+  height: 100vh; /* Establece la altura al 100% del viewport */
 }
 .player-one-add {
   margin: 0 auto;
   background-color: blue;
-  min-width: 100px;
-  min-height: 100px;
+  min-width: 50%;
+  min-height: 50%;
 }
 .player-one-substract {
   margin: 0 auto;
-  background-color: black;
-  min-width: 100px;
-  min-height: 100px;
+  background-color: blue;
+  min-width: 50%;
+  min-height: 50%;
 }
