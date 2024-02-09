@@ -1,0 +1,30 @@
+#root {
+  margin: 0 auto;
+
+  text-align: center;
+}
+
+.App {
+  box-sizing: border-box;
+}
+
+h1 {
+  margin: 0 auto;
+}
+.player-one {
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+}
+.player-one-add {
+  margin: 0 auto;
+  background-color: blue;
+  min-width: 100px;
+  min-height: 100px;
+}
+.player-one-substract {
+  margin: 0 auto;
+  background-color: black;
+  min-width: 100px;
+  min-height: 100px;
+}
