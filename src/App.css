@@ -3,26 +3,13 @@
 
   text-align: center;
 }
-
+body {
+  margin: 0 auto;
+}
 .App {
   box-sizing: border-box;
 }
 
 h1 {
   margin: 0 auto;
-}
-.player-one {
-  height: 100vh; /* Establece la altura al 100% del viewport */
-}
-.player-one-add {
-  margin: 0 auto;
-  background-color: blue;
-  min-width: 50%;
-  min-height: 50%;
-}
-.player-one-substract {
-  margin: 0 auto;
-  background-color: blue;
-  min-width: 50%;
-  min-height: 50%;
 }

@@ -1,0 +1,21 @@
+.villain-container {
+  height: 50vh; /* Establece la altura al 100vh del viewport */
+}
+.villain-add {
+  margin: 0 auto;
+  background-color: red;
+  min-width: 50vh;
+  min-height: 50vh;
+  border: 1px solid black;
+}
+.villain-substract {
+  margin: 0 auto;
+  background-color: red;
+  min-width: 50vh;
+  min-height: 50vh;
+  border: 1px solid black;
+}
+
+.villain-img {
+  border: solid 3px red;
+}
