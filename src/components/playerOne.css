@@ -1,20 +1,22 @@
-.player-one {
-  height: 50vh; /* Establece la altura al 100% del viewport */
+.player-one-container {
+  height: 50vh;
+  width: 100vh;
+  border: 10px solid green;
 }
+
 .player-one-add {
   margin: 0 auto;
   background-color: blue;
-  min-width: 50vh;
-  min-height: 50vh;
-  border: 1px solid black;
+  width: 100vh;
+  height: 25vh;
 }
 .player-one-substract {
   margin: 0 auto;
   background-color: blue;
-  min-width: 50vh;
-  min-height: 50vh;
+  width: 100vh;
+  height: 25vh;
 }
 
 .player-img {
-  border: solid 3px red;
+  width: 200px;
 }
