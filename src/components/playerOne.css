@@ -1,19 +1,18 @@
 .player-one-container {
   height: 50vh;
-  width: 100vh;
-  border: 10px solid green;
+  width: 100vw;
 }
 
 .player-one-add {
   margin: 0 auto;
   background-color: blue;
-  width: 100vh;
+  width: 100vw;
   height: 25vh;
 }
 .player-one-substract {
   margin: 0 auto;
   background-color: blue;
-  width: 100vh;
+  width: 100vw;
   height: 25vh;
 }
 
